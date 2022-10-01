@@ -8,8 +8,8 @@
 - 😄 I Share Awesome Tips, Tricks & Free Resources On My Instagram  [sparshcodes][instagram]
 - 👨‍💻 I’m Currently Focusing On Advance ReactJS Concepts.
 - 🧑‍💻 I’m Looking For A Good Frontend-dev Job.
-- 😍 I Have Over 60K+ Organic Follower Base.
-- 🧐 2021 Goals: Get A Frontend-dev Job, More Open Source Contributions.
+- 😍 I Have Over 100K+ Organic Follower Base.
+- 🧐 2022 Goals: Get A Frontend-dev Job, More Open Source Contributions.
 
 ---
 
