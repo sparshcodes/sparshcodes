@@ -7,9 +7,9 @@
 
 - 😄 I Share Awesome Tips, Tricks & Free Resources On My Instagram  [sparshcodes][instagram]
 - 👨‍💻 I’m Currently Focusing On DSA.
-- 🧑‍💻 I’m Currently Working As A Frontend Developer In A New Jersey Based Company.
+- 🧑‍💻 I’m Currently Working As A Fullstack Developer In A New Jersey Based Company.
 - 😍 I Have Gained Over 100K+ Organic Follower Base On Social Media Platforms.
-- 🧐 2024 Goals: Get a more impactful frontend developer job, More Open Source Contributions.
+- 🧐 2025 Goals: Get a more impactful Fullstack developer job, More Open Source Contributions.
 
 ---
 
