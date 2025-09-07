@@ -3,7 +3,7 @@
 
 ---
 
-## I'm a Self Taught Frontend-dev, Content Creator, Freelancer & A Virtual Assistant !
+## A Self Taught Full Stack Developer, Content Creator & Freelancer !
 
 - 😄 I Share Awesome Tips, Tricks & Free Resources On My Instagram  [sparshcodes][instagram]
 - 👨‍💻 I’m Currently Focusing On DSA.
